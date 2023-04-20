@@ -1,0 +1,34 @@
+{
+  "transactions": [
+    {
+      "name": "Salary",
+      "amount": 1800,
+      "id": 1
+    },
+    {
+      "name": "English Course",
+      "amount": -380,
+      "id": 2
+    },
+    {
+      "name": "Credit Card",
+      "amount": -311,
+      "id": 3
+    },
+    {
+      "name": "College",
+      "amount": -614.85,
+      "id": 4
+    },
+    {
+      "name": "Fuel",
+      "amount": -350,
+      "id": 5
+    },
+    {
+      "name": "Investiments",
+      "amount": -144.15,
+      "id": 6
+    }
+  ]
+}
